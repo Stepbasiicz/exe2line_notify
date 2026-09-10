@@ -1,8 +1,8 @@
 {
-    "agent_version": "260910.1753",
-    "version_tag": "agent-v260910.1753",
-    "release_timestamp": "2026-09-10 17:53:38",
-    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/agent-v260910.1753/Desktop_Alert_Agent.exe",
-    "release_notes": "Desktop Notification Agent v260910.1753",
-    "file_size_mb": 19.29
+    "agent_version": "260910.2132",
+    "version_tag": "agent-v260910.2132",
+    "release_timestamp": "2026-09-10 21:32:35",
+    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/latest/download/Desktop_Alert_Agent.exe",
+    "release_notes": "🔒 เพิ่มระบบ Soft4UApp Secure Vault (AES-256-GCM) และ Hardware-Bound Key ปลอดภัยระดับสูงสุด",
+    "file_size_mb": 23.03
 }
