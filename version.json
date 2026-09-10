@@ -1,8 +1,8 @@
 {
-    "latest_version": "260910.1752",
-    "version_tag": "v260910.1752",
-    "release_timestamp": "2026-09-10 17:52:06",
-    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/v260910.1752/SQL_Line_Notify.exe",
-    "release_notes": "Auto-build version v260910.1752 (2026-09-10 17:52:06)",
-    "file_size_mb": 27.7
+    "latest_version": "260910.2103",
+    "version_tag": "v260910.2103",
+    "release_timestamp": "2026-09-10 21:03:40",
+    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/v260910.2103/SQL_Line_Notify.exe",
+    "release_notes": "🔒 Auto-build v260910.2103: Soft4UApp Secure Vault (AES-256-GCM) & Hardware-Bound Security",
+    "file_size_mb": 27.32
 }
