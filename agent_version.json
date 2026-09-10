@@ -1,8 +1,8 @@
 {
-    "agent_version": "260909.1741",
-    "version_tag": "agent-v260909.1741",
-    "release_timestamp": "2026-09-09 17:41:43",
-    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/agent-v260909.1741/Desktop_Alert_Agent.exe",
-    "release_notes": "Desktop Notification Agent v260909.1741",
-    "file_size_mb": 19.28
+    "agent_version": "260910.1732",
+    "version_tag": "agent-v260910.1732",
+    "release_timestamp": "2026-09-10 17:32:17",
+    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/agent-v260910.1732/Desktop_Alert_Agent.exe",
+    "release_notes": "Desktop Notification Agent v260910.1732",
+    "file_size_mb": 19.29
 }
