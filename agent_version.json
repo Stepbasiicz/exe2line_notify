@@ -1,8 +1,8 @@
 {
-    "agent_version": "260911.1049",
-    "version_tag": "agent-v260911.1049",
-    "release_timestamp": "2026-09-11 10:49:46",
-    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/agent-v260911.1049/Desktop_Alert_Agent.exe",
+    "agent_version": "260911.1131",
+    "version_tag": "agent-v260911.1131",
+    "release_timestamp": "2026-09-11 11:31:37",
+    "download_url": "https://github.com/Stepbasiicz/exe2line_notify/releases/download/agent-v260911.1131/Desktop_Alert_Agent.exe",
     "release_notes": "📊 เพิ่มระบบ On-Demand Report Viewer เรียกดูรายงานสดตามคำขอจากแม่ข่าย พร้อมระบบความปลอดภัย Hardware-Bound Standard",
-    "file_size_mb": 23.05
+    "file_size_mb": 23.06
 }
